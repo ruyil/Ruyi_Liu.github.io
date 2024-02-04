@@ -14,4 +14,4 @@ I am very fortunate to be advised by [Dr. Chaoxiong Ye](https://www.researchgate
 
 You can find my CV here: [Curriculum Vitae_Ruyi Liu](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:ruyi__liu@163.com) / [Github](https://github.com/ruyil) 
+[Email](mailto:ruyi__liu@163.com) / [Github](https://github.com/ruyil)  / [ResearchGate](https://www.researchgate.net/profile/Ruyi-Liu-3 )
