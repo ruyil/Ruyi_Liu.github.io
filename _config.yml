@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruyi Liu / Site Title"
+title                    : "Ruyi Liu"
 title_separator          : "-"
 name                     : &name "Ruyi Liu"
 description              : &description "MA student focused on visual working memory"
