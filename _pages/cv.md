@@ -36,11 +36,18 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Honors & Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Third-class Academic Scholarship (for 20% graduate students), Sichuan Normal University, 2021
+* President’s List (for 20% graduate students), Sichuan Normal University, 2022
+* Merit Student (for top 5% students), Sichuan Normal University, 2022
+* President’s List, Sichuan Normal University, 2023
+
+#Teaching
+#======
+  #<ul>{% for post in site.teaching %}
+    #{% include archive-single-cv.html %}
+  #{% endfor %}</ul>
   
 #Service and leadership
 #======
