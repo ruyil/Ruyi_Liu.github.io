@@ -12,6 +12,6 @@ MA student in the Institute of Brain and Psychological Sciences of Sichuan Norma
 
 I am very fortunate to be advised by [Dr. Chaoxiong Ye](https://www.researchgate.net/profile/Chaoxiong-Ye) from [Department of Psychology](https://www.jyu.fi/en/edupsy/psychology), University of Jyvaskyla, and be a member of Ye's Lab.
 
-You can find my CV here: [Curriculum Vitae_Ruyi Liu](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [CV_Ruyi Liu](https://ruyil.github.io/Ruyi_Liu.github.io/assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:ruyi__liu@163.com) / [Github](https://github.com/ruyil)  / [ResearchGate](https://www.researchgate.net/profile/Ruyi-Liu-3 )
