@@ -11,30 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* LLB in International Relations, Peking University, 2015.9 — 2019.7
+* MA in Psychology, Sichuan Normal University, 2021.9 — 2024.7 (expected)
 
-Work experience
+Language & Skills
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English: Fluent for academic use.
+  * IETS: 7.5/9 (listening 8.5, reading 9.0, writing 6.0, speaking 6.0).
+* Mandarin: Native.
+* E-prime: Coding two behavioral experiments with recall tasks and one EEG experiment with a change detection task.
+* PsychoPy: Coding one experiment with a coding task and a dot probe task.
+* SPSS & JASP: Conducting ANOVA, classical or Bayesian t-test, correlation, and Logistic regression analysis.
+* Matlab: Using eeglab to analyze EEG data.
 
 Publications
 ======
@@ -54,6 +42,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
