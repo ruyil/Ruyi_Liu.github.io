@@ -42,13 +42,3 @@ Honors & Awards
 * President’s List (for 20% graduate students), Sichuan Normal University, 2022
 * Merit Student (for top 5% students), Sichuan Normal University, 2022
 * President’s List, Sichuan Normal University, 2023
-
-#Teaching
-#======
-#<ul>{% for post in site.teaching %}
-#{% include archive-single-cv.html %}
-#{% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
