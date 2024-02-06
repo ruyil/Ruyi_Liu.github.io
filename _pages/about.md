@@ -39,11 +39,11 @@ What's new
 * 2022.07 Collect 40+ behavioral data for the project on double feature-based RCB.
 * 2022.06 Collect 20+ behavioral data for the project on integration phase of real-world objects in VWM.
 * 2022.06 Attend <b>Visual Science Society 2022</b> online. Present a talk claiming that real objects are grouped according spatial regularities in the encoding rather than maintenance phase of visual working memory.
-* 2022.05 Finish the revision of our manuscript "The Performance Difference of Visual Working Memory between Various Emotional Faces." This is a review article published in [<i>Advances in Psychology</i> (Chinese Journal)] (https://doi.org/10.12677/AP.2022.125196).
+* 2022.05 Finish the revision of our manuscript (Chinese paper) "The Performance Difference of Visual Working Memory between Various Emotional Faces." This is a review article published in [<i>Advances in Psychology</i>] (https://doi.org/10.12677/AP.2022.125196).
 * 2022.04 Participate in the project on the impact of negative emotional state on filtering.
-* 2022.04 Finish the revision of our manuscript "The Influencing Factors of Retro-Cue Effect in Visual Working Memory." This is a review article published in [<i>Advances in Psychology</i> (Chinese Journal)] (https://doi.org/10.12677/AP.2022.124128).
+* 2022.04 Finish the revision of our manuscript (Chinese paper) "The Influencing Factors of Retro-Cue Effect in Visual Working Memory." This is a review article published in [<i>Advances in Psychology</i>] (https://doi.org/10.12677/AP.2022.124128).
 * 2022.03 Participate in the project on double feature-based RCB.
-* 2022.03 Finish the revision of our manuscript "The Representation Unit of Visual Working Memory." This is a review article published in [<i>Advances in Psychology</i> (Chinese Journal)] (https://doi.org/10.12677/AP.2022.123103).
+* 2022.03 Finish the revision of our manuscript (Chinese paper) "The Representation Unit of Visual Working Memory." This is a review article published in [<i>Advances in Psychology</i>] (https://doi.org/10.12677/AP.2022.123103).
 * 2021.11 Participate in the project on integration phase of real-world objects in VWM.
 * 2021.09 Begin my graduate study on psychology in Sichuan Normal University.
 
