@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruyi Liu"
 title_separator          : "-"
 name                     : &name "Ruyi Liu"
-description              : &description "MA student focused on visual working memory"
+description              : &description "PhD student focused on visual working memory"
 url                      : https://ruyil.github.io/Ruyi_Liu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ruyil.github.io/Ruyi_Liu.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "ruyi__liu@163.com"
+    email                : "ruyi.roy.liu@jyu.fi"
   generatedFields:
     date:
       type               : "date"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ruyi Liu （刘茹邑）"
   avatar           : "ruyi.png"
-  bio              : "MA student focused on visual working memory"
-  location         : "Sichuan, China"
+  bio              : "PhD student focused on visual working memory"
+  location         : "Jyväskylä, Finland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ruyi__liu@163.com"
+  email            : "ruyi.roy.liu@jyu.fi"
   researchgate     : "https://www.researchgate.net/profile/Ruyi-Liu-3"
   uri              :
   bitbucket        :
