@@ -51,4 +51,4 @@ What's new
 * 2021.11 Participate in the project on integration phase of real-world objects in VWM.
 * 2021.09 Begin my graduate study on psychology in Sichuan Normal University.
 
-[Email](mailto:ruyi__liu@163.com) / [Github](https://github.com/ruyil)  / [ResearchGate](https://www.researchgate.net/profile/Ruyi-Liu-3 )
+[Email](mailto:ruyi.roy.liu@jyu.fi) / [Github](https://github.com/ruyil)  / [ResearchGate](https://www.researchgate.net/profile/Ruyi-Liu-3 )
